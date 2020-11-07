@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/mattias/project/id2221/target/scala-2.11/hello-spark_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org/apache/spark/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/ml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org/apache/spark/examples/ml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/ml/MainProgram$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org/apache/spark/examples/ml/MainProgram$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/ml/MainProgram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org/apache/spark/examples/ml/MainProgram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/ml/LogisticRegressionWithElasticNetExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org/apache/spark/examples/ml/LogisticRegressionWithElasticNetExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/examples/ml/MainProgram$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mattias/project/id2221/target/scala-2.11/classes/org/apache/spark/examples/ml/MainProgram$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

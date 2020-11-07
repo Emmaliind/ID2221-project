@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mattias/project/id2221/main.scala:40:10: too many arguments for method print: ()Unit[0m
+[0m[[0m[31merror[0m] [0m[0m    print(usedColumns)[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

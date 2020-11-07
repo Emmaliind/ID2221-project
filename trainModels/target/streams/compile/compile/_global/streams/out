@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mattias/project/id2221/trainModels/models.scala:68:5: ')' expected but 'var' found.[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    var x = 3[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mone error found[0m[0J

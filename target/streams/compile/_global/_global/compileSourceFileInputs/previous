@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.12":{"hashes":[["/home/mattias/project/id2221/main.scala","5cd57f751ad5aaa7e38b0f6da496246bfc1b069d"]],"lastModifiedTimes":[]}}]
